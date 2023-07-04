@@ -16,12 +16,12 @@
 
 const movieDB = {
     movies: [
-        "Ніколь",
-        "Лига справедливости",
-        "Ла-ла лэнд",
-        "Одержимость",
-        "Данік",
-        "Скотт Пилигрим против..."
+        "Venom",
+        "Spider-man",
+        "Iron Man",
+        "Deadpool",
+        "Doctor Strange",
+        "Thor"
     ]
 };
 
